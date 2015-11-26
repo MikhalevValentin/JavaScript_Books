@@ -1,7 +1,7 @@
 # Books-JavaScript
 Books JavaScript
 
- Discover Meteor(Tom Coleman).pdf 	JS-books 	7 minutes ago
+Discover Meteor(Tom Coleman).pdf 	JS-books 	7 minutes ago
 JavaScript для профессиональных веб-разработчиков(2013,Николас Закас).pdf 	JS-books 	7 minutes ago
 JavaScript. Карманный справочник(Дэвид Флэнаган,2013) vk.com_webtackles.pdf 	JS-books 	7 minutes ago
 JavaScript. Оптимизация производительности (2012,Николас Закас).pdf 	JS-books 	7 minutes ago
@@ -9,7 +9,6 @@ JavaScript. Подробное руководство (2012,Дэвид Флэн�
 JavaScript. Сильные стороны(2012, Д. Крокфорд).pdf 	JS-books 	7 minutes ago
 JavaScript. Шаблоны - (2011,Стоян Стефанов).pdf 	JS-books 	7 minutes ago
 Node.js в действии(2014, М.Кантелон).pdf 	JS-books 	7 minutes ago
-README.md 	Initial commit 	11 minutes ago
 jQuery. Cборник рецептов - (2011,Самков Г. А.).pdf 	JS-books 	7 minutes ago
 jQuery. Подробное руководство по продвинутому JavaScript(2011,Bear Bibeault).pdf 	JS-books 	7 minutes ago
 Веб приложения на JavaScript(2012,Алекс Маккоу).pdf 	JS-books 	7 minutes ago
